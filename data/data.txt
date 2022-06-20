@@ -1,0 +1,1 @@
+{"coins": 0, "AutoMiner": 2, "AutoPreco": 20, "UpClick": 1, "UpPreco": 20, "CapacidadePreco": 300, "Capacidade": 5, "Funcionarios": 0, "RAutoMiner": 0, "PrecoRAutoMiner": 300, "gastos": 0, "menos": 1, "svlvl": 0, "svpreco": 1000}

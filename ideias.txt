@@ -1,0 +1,10 @@
+ARRUMAR todos os bugs do jogo; FEITO;
+fazer um banco, onde pode pedir dinheiro pra começar o seu negocio, paga-lo depois de conseguir dinheiro com seu negocio e para guardar seu dinheiro na conta da empresa;
+fazer um um local onde pode criar sua conta e salvá-la para quando querer jogar nela de novo conseguir;
+colocar nas estatisticas o seu nome, o nome da empresa e oque ela fará;
+fazer o sistema de missões; como por exemplo você precisa coletar os itens que fabrica para vender por dinheiro ou peças para fabricar novos itens que sua empresa irá fazer;
+Sistemas anuais, com datas, estações que modificam a produção de alguns;
+barra de comando para digitar comandos wooow;
+Tirar o botão de aumentar o click;
+Arrumar os trbalhadores colocando curriculo, idade, nivel e seu preço;
+o nome do jogo deve ser alterado;
